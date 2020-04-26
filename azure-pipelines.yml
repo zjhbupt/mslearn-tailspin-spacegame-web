@@ -1,10 +1,10 @@
 ### YamlMime:Yaml
-ms.openlocfilehash: 799f9738ace40f85fae98e28f6c679d1b385e672
-ms.sourcegitcommit: 30b83f324396700a9f03c4d42aa5ae0721fb69b9
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "67336645"
+# ms.openlocfilehash: 799f9738ace40f85fae98e28f6c679d1b385e672
+# ms.sourcegitcommit: 30b83f324396700a9f03c4d42aa5ae0721fb69b9
+# ms.translationtype: HT
+# ms.contentlocale: zh-CN
+# ms.lasthandoff: 06/21/2019
+# ms.locfileid: "67336645"
 pool:
   vmImage: Ubuntu-16.04
   demands:
